@@ -7,7 +7,7 @@ function Home(){
         <>
         <div className='flex flex-wrap'>
           <div>
-          <img className='w-[300px] h-[330px] ml-10  ' src={LogoMarvel} alt="" />
+          <img className='w-[300px] h-[330px] ml-10  lg:justify-center' src={LogoMarvel} alt="" />
           <img className='w-[300px] h-[300px] ml-10' src={Marvel} alt="" />
           </div>
        
